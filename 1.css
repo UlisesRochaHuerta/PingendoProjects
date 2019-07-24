@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html languaje="esp">
+
+<head>
+    <title>REGISTRO</title>
+    <link rel="stylesheet" href="estilos1.css">
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <div class="cen">
+        <h1 class="encabezado">INGRESA UN USUARIO Y CONTRASEÑA PARA REGISTRARSE</h1>
+        <div style="margin-left: 43%;">
+            <div>
+            <p style="color: aliceblue" class="usuario1">USUARIO</p>
+            </div>
+            <input placeholter="?? Usuario" name="usuario" type="text" class="usuario">
+            <div>
+            <P style="color: aliceblue"  class="contraseña1">CONTRASEÑA</P>
+            </div>
+            <input placeholter="?? Usuario" name="usuario" type="password" class="contraseña">
+            </br></br>
+            <button style="margin-left: 9%;" class="boton">Registrarse</button>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
